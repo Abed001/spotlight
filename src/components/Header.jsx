@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react';
+import { Fragment } from 'react';
 
 import { Popover, Transition } from '@headlessui/react';
 import { HiMenu } from "react-icons/hi";
